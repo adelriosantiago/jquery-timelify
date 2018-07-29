@@ -6,6 +6,7 @@ A little plugin I've made to create simple timeline
 Here is an example of what you can do with this plugin : 
 ![](http://puu.sh/pd2dg/6f9688cce7.gif)
 
+Here is a ![live demo](https://www.jqueryscript.net/demo/Simple-Animated-Timeline-Plugin-For-jQuery-Timelify/)
 
 ## Usage
 Simply clone this repository or download it to see an example of how your HTML structure should be.  
